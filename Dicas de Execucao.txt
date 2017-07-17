@@ -1,0 +1,6 @@
+Apache River
+- dentro da pasta examples/space
+% sh start-services.sh (executa os serviços)
+
+
+
